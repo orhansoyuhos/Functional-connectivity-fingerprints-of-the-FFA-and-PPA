@@ -44,7 +44,7 @@ with Neurosynth, AFNI and MRIcroGL) and the task illustrations of Figure 4.
 ## Requirements
 
 - **MATLAB** (tested with R2023a) with the Statistics and Machine Learning Toolbox.
-  - The Parallel Computing Toolbox is optional. It runs the permutation tests in parallel; the results are the same.
+  - The Parallel Computing Toolbox is optional. It runs the permutation tests in parallel.
 - **R** (tested with 4.4.1) with `ggplot2` (≥ 3.5), `patchwork`, `boot` and `gt`.
   - Optional: `webshot2` with Chrome, for PNG versions of the tables.
   - Optional: `systemfonts`, to use Arial.
@@ -130,10 +130,7 @@ matrices behind `data/` from the HCP data. `run_all` does not use it.
 
 ## License
 
-Copyright (C) 2026 Orhan Soyuhos
-
-The code is free software under the GNU General Public License v3.0 (`LICENSE`): you can
-redistribute and modify it under those terms. It comes without any warranty.
+This repository is licensed under the GNU General Public License v3.0. See [LICENSE](LICENSE) for details.
 
 Third-party code and data keep their own terms:
 - `code/external/fdr_bh.m`: the BSD license of the MATLAB File Exchange (see
