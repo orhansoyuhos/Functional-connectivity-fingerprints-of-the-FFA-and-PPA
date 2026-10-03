@@ -1,10 +1,16 @@
-# Face and scene connectivity
+# Functional connectivity fingerprints of the FFA and PPA
 
-Analysis code for:
+<p align="center">
+  <img width="60%" alt="face_scene" src="https://github.com/user-attachments/assets/31cbea0a-e5bf-46ff-a5ff-f815e5d1b847" />
+</p>
 
-> Soyuhos, O., Scarpa, A., & Baldauf, D. (2026). Distinct resting-state connectomes for face
-> and scene perception predict individual task performance. *Human Brain Mapping*, 47(5),
-> e70498. https://doi.org/10.1002/hbm.70498
+## Citation
+
+> Soyuhos, O., Scarpa, A., & Baldauf, D. (2026). Distinct resting-state connectomes for face and scene perception predict individual task performance. *Human Brain Mapping*, 47(5), e70498. https://doi.org/10.1002/hbm.70498
+
+---
+
+## Repository Structure
 
 `run_all` runs all analyses and makes the figures and tables of the paper from the data
 in [`data/`](data/README.md):
