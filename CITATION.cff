@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the paper below."
+title: "Distinct resting-state connectomes for face and scene perception predict individual task performance: analysis code"
+type: software
+license: GPL-3.0-only
+authors:
+  - family-names: Soyuhos
+    given-names: Orhan
+  - family-names: Scarpa
+    given-names: Aurelia
+  - family-names: Baldauf
+    given-names: Daniel
+preferred-citation:
+  type: article
+  title: "Distinct Resting-State Connectomes for Face and Scene Perception Predict Individual Task Performance"
+  authors:
+    - family-names: Soyuhos
+      given-names: Orhan
+    - family-names: Scarpa
+      given-names: Aurelia
+    - family-names: Baldauf
+      given-names: Daniel
+  journal: "Human Brain Mapping"
+  year: 2026
+  volume: 47
+  issue: 5
+  start: "e70498"
+  doi: "10.1002/hbm.70498"
+references:
+  - type: article
+    title: "Functional connectivity fingerprints of the frontal eye field and inferior frontal junction suggest spatial versus nonspatial processing in the prefrontal cortex"
+    authors:
+      - family-names: Soyuhos
+        given-names: Orhan
+      - family-names: Baldauf
+        given-names: Daniel
+    journal: "European Journal of Neuroscience"
+    year: 2023
+    volume: 57
+    issue: 7
+    start: "1114"
+    end: "1140"
+    doi: "10.1111/ejn.15936"

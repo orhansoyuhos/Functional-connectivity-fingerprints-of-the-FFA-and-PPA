@@ -1,0 +1,34 @@
+order,parcel,group,group_name,group_color
+1,V3B,V,Visual areas,#BFEF45
+2,V4,V,Visual areas,#BFEF45
+3,MT,MT+,Middle temporal complex,#4363D8
+4,MST,MT+,Middle temporal complex,#4363D8
+5,PH,MT+,Middle temporal complex,#4363D8
+6,V4t,MT+,Middle temporal complex,#4363D8
+7,LO1,LO,Lateral occipital areas,#AAFFC3
+8,LO2,LO,Lateral occipital areas,#AAFFC3
+9,LO3,LO,Lateral occipital areas,#AAFFC3
+10,TE2p,LT,Lateral temporal cortex,#000075
+11,TGd,LT,Lateral temporal cortex,#000075
+12,STSdp,ST,Superior temporal sulcus,#9A6324
+13,TPOJ1,TPO,Temporoparietal junction,#F58231
+14,TPOJ2,TPO,Temporoparietal junction,#F58231
+15,TPOJ3,TPO,Temporoparietal junction,#F58231
+16,PHA2,VS,Ventral visual stream,#469990
+17,PIT,VS,Ventral visual stream,#469990
+18,V8,VS,Ventral visual stream,#469990
+19,VMV2,VS,Ventral visual stream,#469990
+20,VMV3,VS,Ventral visual stream,#469990
+21,VVC,VS,Ventral visual stream,#469990
+22,PeEc,EC,Entorhinal cortex,#42D4F4
+23,IP0,PC,Parietal cortex,#FFD8B1
+24,MIP,PC,Parietal cortex,#FFD8B1
+25,PFm,PC,Parietal cortex,#FFD8B1
+26,PGp,PC,Parietal cortex,#FFD8B1
+27,25,C,Cingulate cortex,#FFFAC8
+28,DVT,C,Cingulate cortex,#FFFAC8
+29,POS1,C,Cingulate cortex,#FFFAC8
+30,6a,PFC,Prefrontal cortex,#FABED4
+31,IFJp,PFC,Prefrontal cortex,#FABED4
+32,IFSa,PFC,Prefrontal cortex,#FABED4
+33,PEF,PFC,Prefrontal cortex,#FABED4
