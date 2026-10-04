@@ -1,6 +1,6 @@
 # Data
 
-All files were made from the full per-subject connectivity matrices
+All files were made from the complete per-subject 360 × 360 connectivity matrices
 with [`preprocessing/make_data.m`](../preprocessing/make_data.m).
 [`preprocessing/`](../preprocessing/README.md) shows how those matrices were computed from the
 HCP data.

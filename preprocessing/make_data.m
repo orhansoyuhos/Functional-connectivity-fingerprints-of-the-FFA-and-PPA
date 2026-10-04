@@ -1,11 +1,11 @@
 function make_data(source_dir)
-% MAKE_DATA  Build the files in data/ from the full connectivity matrices.
+% MAKE_DATA  Build the files in data/ from the complete connectivity matrices.
 %
 %   addpath('preprocessing')            % from the repository root
 %   make_data(source_dir)
 %
 % This is the last step of preprocessing/ (see preprocessing/README.md). It
-% needs the full per-subject 360 x 360 connectivity matrices, which are not
+% needs the complete per-subject 360 x 360 connectivity matrices, which are not
 % part of this repository (about 1.5 GB):
 %
 %   source_dir/connMatrices/rfMRI/Outputs_55subjs_partialcorr_rfMRI_MEAN.mat   (fmri/step2_parcellate_netmats.m,
